@@ -78,6 +78,7 @@ const checkwinner= () =>{
 //         msg.innerText =`DRAW`;
 //         msgContainer.classList.remove("hide");
 //     }
+    
 // }
 
 newGameBtn.addEventListener("click",resetGame);
